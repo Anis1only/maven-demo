@@ -1,7 +1,7 @@
 package demo;
 
 import org.junit.Test;
-import java.swing.*;
+
 
 import com.github.davidmoten.rtree.RTree;
 import com.github.davidmoten.rtree.geometry.Geometries;
